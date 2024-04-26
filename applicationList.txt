@@ -1,0 +1,2 @@
+C:\Apps\Nvidia Inspector\nvidiaProfileInspector.exe
+C:\Windows\Notepad.exe
