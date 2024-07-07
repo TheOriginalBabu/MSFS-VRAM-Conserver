@@ -1,2 +1,7 @@
-C:\Apps\Nvidia Inspector\nvidiaProfileInspector.exe
-C:\Windows\Notepad.exe
+C:\Program Files (x86)\FS2Crew Command Center\FS2CrewCommandCenter.exe
+C:\Apps\FSRealistic\FSRealistic.exe
+C:\Program Files\LorbyAxisAndOhs_MSFS\LorbyAxisAndOhs_MSFS.exe
+C:\Games\FS2020 Addons Linker\RealTurb CAT Areas Global for MSFS\RealTurb CAT Areas Global for MSFS.exe
+C:\Program Files\SPAD.neXt\SPAD.neXt.exe
+C:\Program Files\Elgato\StreamDeck\StreamDeck.exe
+C:\Users\Izaan\AppData\Local\Programs\Volanta\Volanta.exe
